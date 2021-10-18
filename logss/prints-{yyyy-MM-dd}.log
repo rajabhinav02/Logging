@@ -1,0 +1,8 @@
+22:11:19.087 [main] DEBUG newpackage.Secondlog - 2nd package debug
+22:11:19.143 [main] ERROR newpackage.Secondlog - 3rd package debug
+22:11:27.394 [main] DEBUG newpackage.Secondlog - 2nd package debug
+22:11:27.400 [main] ERROR newpackage.Secondlog - 3rd package debug
+22:11:34.931 [main] DEBUG newpackage.Secondlog - 2nd package debug
+22:11:34.935 [main] ERROR newpackage.Secondlog - 3rd package debug
+22:11:40.469 [main] DEBUG newpackage.Secondlog - 2nd package debug
+22:11:40.476 [main] ERROR newpackage.Secondlog - 3rd package debug

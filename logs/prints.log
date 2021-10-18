@@ -1,0 +1,8 @@
+21:44:41.792 [main] DEBUG newpackage.Secondlog - 2nd package debug
+21:44:41.798 [main] ERROR newpackage.Secondlog - 3rd package debug
+21:45:01.266 [main] DEBUG newpackage.Secondlog - 2nd package debug
+21:45:01.270 [main] ERROR newpackage.Secondlog - 3rd package debug
+21:45:30.583 [main] DEBUG newpackage.Secondlog - 2nd package debug
+21:45:30.589 [main] ERROR newpackage.Secondlog - 3rd package debug
+21:46:17.284 [main] ERROR Logi.Logging.Logprac - error value
+21:46:17.289 [main] FATAL Logi.Logging.Logprac - fatal value
